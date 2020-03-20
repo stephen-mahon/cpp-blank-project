@@ -2,6 +2,7 @@ Stephen Mahon 20 March 2020
 
 The blank-folder-structure
 
+G++
 
 https://hiltmon.com/blog/2013/07/03/a-simple-c-plus-plus-project-structure/
 
@@ -18,3 +19,6 @@ For each application, the folders are:
 
 Makefile
 https://www.cs.bu.edu/teaching/cpp/writing-makefiles/
+
+Github
+https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6
